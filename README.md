@@ -12,17 +12,17 @@ Business Insights 360 is a comprehensive Power BI project aimed at providing act
 Business Insights 360 consolidates data from multiple sources and provides visually appealing and interactive dashboards to analyze key business metrics.
 
 Features:
-Finance View: Analyze P&L statements for any customer, product, or country.  
+- Finance View: Analyze P&L statements for any customer, product, or country.  
 
-Sales View: Performance analysis with profitability and growth matrices.
+- Sales View: Performance analysis with profitability and growth matrices.
 
-Marketing View: Insights on product-level sales and gross margins.
+- Marketing View: Insights on product-level sales and gross margins.
 
-Supply Chain View: Forecast accuracy, risk profiling, and error analysis.
+- Supply Chain View: Forecast accuracy, risk profiling, and error analysis.
 
-Executive View: A top-level dashboard summarizing all key insights.
+- Executive View: A top-level dashboard summarizing all key insights.
 
-Support: Integration for issue resolution and user assistance.
+- Support: Integration for issue resolution and user assistance.
 
 # Problem statement
 
