@@ -83,16 +83,6 @@ SQL Database: Provided the primary data dump for the project.
 
 Excel Files: Supplemented SQL data for additional insights.
 
-# 📊 Dashboard Highlights
-
-The dashboards visualize metrics like:
-
-- Net Sales,
-- Gross Margin,
-- Profitability and Growth Matrices,
-- Forecast Accuracy,
-- Executive Summaries
-
 # Business related terms
 
 - Gross price
@@ -121,6 +111,16 @@ In this project, we have followed Snowfall data modeling method.
 # Dashboard designing
 
 Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required.
+
+# 📊 Dashboard Highlights
+
+The dashboards visualize metrics like:
+
+- Net Sales,
+- Gross Margin,
+- Profitability and Growth Matrices,
+- Forecast Accuracy,
+- Executive Summaries
 
 # 💡 Key Learnings
 
