@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5ab73c7c-cea9-4a3e-9222-881fca8e13cd)![image](https://github.com/user-attachments/assets/6f7d4ef4-abcc-4f48-ac95-b26162d49571)# Business-Insights-360---PowerBi-
+# Business-Insights-360---PowerBi-
 
 Business Insights 360 is a comprehensive Power BI project aimed at providing actionable insights across various business dimensions such as Finance, Sales, Marketing, Supply Chain, and Executive overviews. This repository contains all the files and documentation required to replicate or extend the project.
 
